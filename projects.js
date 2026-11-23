@@ -36,7 +36,6 @@ const projects = [
         status: "live",
         year: 2026,
         live: "https://wasift22.github.io/Beautiful-Face/",
-        code: "https://github.com/wasift22/Beautiful-Face",
         case: ""
     },
 
